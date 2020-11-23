@@ -1,0 +1,14 @@
+{
+    "name": "bittacora/datatables-bpanel",
+    "description": "Componente para los datatables de bPanel4",
+    "type": "library",
+    "authors": [
+        {
+            "name": "bittacora",
+            "email": "info@bittacora.com"
+        }
+    ],
+    "require": {
+        "rappasoft/laravel-livewire-tables": "@dev"
+    }
+}
